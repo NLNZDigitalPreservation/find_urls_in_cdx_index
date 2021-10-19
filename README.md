@@ -1,7 +1,7 @@
 # Find URLs in a CDX index
 
 Takes a spreadsheet of URLs and checks if each unique URL exists in a CDX index.
-Outputs a new spreadsheet of the URLs that do exist in the the CDX index along with their three latest occurrences.
+Outputs a new spreadsheet of the URLs that do exist in the CDX index along with their three latest occurrences.
 
 Currently assumes URLs will be in column E of the input spreadsheet.
 
